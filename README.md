@@ -1,6 +1,7 @@
 # A simple speech synthesizer
 
 The synthesizer use concatenation of monophones
+
 The corpus used is cmu pronouncing dictionary (English)
 
 * before run, please use nltk
